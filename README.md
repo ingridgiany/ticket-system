@@ -34,6 +34,6 @@ The system registers the name, business identification number and address of cus
 
 The system allows you to create a ticket with the customer's name, the subject _(financial, support or technical visit)_, the date, the status _(open, progress or complete)_ and a note about the problem _(optional)_.
 
-The ticket information is saved in the database, along with the ID of the user who registered it.
+The ticket information is saved in the database, along with the **ID** of the user who registered it.
 
 It is allowed to edit the ticket, change its information and status (to complete, for example). The new changes will also be edited in the Firebase.
